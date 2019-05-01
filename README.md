@@ -11,7 +11,7 @@
 > Present the ideal case on how to interact with the prototype from the beginning to the end.
 > Upload the video on any video-sharing website (e.g., YouTube), then attach the video link on this report.
 
-[![Prototype Video](http://img.youtube.com/vi/IYG0LkOd58M/0.jpg)](https://youtu.be/IYG0LkOd58M?t=72)
+[![Prototype Video](http://img.youtube.com/vi/u4HYbaNhK4k/0.jpg)](https://youtu.be/u4HYbaNhK4k)
 
 ---
 
@@ -71,52 +71,55 @@
 
 #### a. Transcript with Participant 1
 
+```text
 1. **You**: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 1. **Participant**: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
 1. **You**: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 1. **Participant**: The Quick Brown Fox Jumps Over The Lazy Dog.
+```
 
 #### b. Transcript with Participant 2
 
-* **00:01** 👨‍🔬 You: Halo, aku mau nanya nih, sebelumnya kamu tau flashcard itu apa ga?
+```text
+* **00:01** 👨‍🔬 Me: Halo, aku mau nanya nih, sebelumnya kamu tau flashcard itu apa ga?
 
 * **00:08** 👨‍💻 Participant: Enggak.
 
-* **00:09** 👨‍🔬 You: Oh yaudah jadi flashcard itu kayak metode belajar yang menggunakan kartu yang didepannya itu ada sebuah pertanyaan. Kamu mengingat-ingat jawaban dari pertanyaan itu. Jawabannya ada di belakang kartu itu.
+* **00:09** 👨‍🔬 Me: Oh yaudah jadi flashcard itu kayak metode belajar yang menggunakan kartu yang didepannya itu ada sebuah pertanyaan. Kamu mengingat-ingat jawaban dari pertanyaan itu. Jawabannya ada di belakang kartu itu.
 
-* **00:33** 👨‍🔬 You : Nah, jadi ini ada aplikasi namanya Anki. Bisa dilihat Anki itu seperti apa. Nah aku membuat ulang Anki itu seperti apa. Anki itu modelnya seperti apa. Mungkin kamu bisa mendemokan fiturnya.
+* **00:33** 👨‍🔬 Me : Nah, jadi ini ada aplikasi namanya Anki. Bisa dilihat Anki itu seperti apa. Nah aku membuat ulang Anki itu seperti apa. Anki itu modelnya seperti apa. Mungkin kamu bisa mendemokan fiturnya.
 
 * **01:05** 👨‍💻 Participant: Oh jadi tombol Add ini gunanya untuk apa?
 
-* **01:07** 👨‍🔬 You : Jadi Add itu kayak membuat kartu, nah bisa dilihat ini ada fitur Get Shared dan lainnya.
+* **01:07** 👨‍🔬 Me : Jadi Add itu kayak membuat kartu, nah bisa dilihat ini ada fitur Get Shared dan lainnya.
 
 (Participant click Get Shared button and the browser redirect the link to The Deck Collection.)
 
-* **01:28** 👨‍🔬 You : Nah ini nge-direct ke website Anki yang mana ada banyak kategori kartu yang bisa di download. Mungkin kamu bisa download untuk lihat caranya.
+* **01:28** 👨‍🔬 Me : Nah ini nge-direct ke website Anki yang mana ada banyak kategori kartu yang bisa di download. Mungkin kamu bisa download untuk lihat caranya.
 
 * **01:44** 👨‍💻 Participant: Aku coba pilih yang Music. Ini terserah?
 
-* **01:45** 👨‍🔬 You : Iya terserah.
+* **01:45** 👨‍🔬 Me : Iya terserah.
 
 (Participant click download button.)
 
-* **02:28** 👨‍🔬 You : Nah ini buat import kartunya yang didapat dari komunitas. Coba kamu explore yang lain.
+* **02:28** 👨‍🔬 Me : Nah ini buat import kartunya yang didapat dari komunitas. Coba kamu explore yang lain.
 
 * **02:40** 👨‍💻 Participant: Ini aku mau coba Browse. Ini buat apa?
 
-* **02:51** 👨‍🔬 You : Jadi ini buat lihat kartu apa yang sudah tersedia. Nah kalo disini contohnya belum ada kartu karena ini masih gambaran aja.
+* **02:51** 👨‍🔬 Me : Jadi ini buat lihat kartu apa yang sudah tersedia. Nah kalo disini contohnya belum ada kartu karena ini masih gambaran aja.
 
 * **03:02** 👨‍💻 Participant: Trus stats ini untuk?
 
-* **03:07** 👨‍🔬 You : Menurutmu ini untuk apa?
+* **03:07** 👨‍🔬 Me : Menurutmu ini untuk apa?
 
 * **03:08** 👨‍💻 Participant: Emm.. Kalo menurutku ini stats ini ngelihat progress kita selama menggunakan Anki ini sih.
 
-* **03:19** 👨‍🔬 You : Ya benar jadi ini buat ngelihat seberapa jauh kita dan seberapa sering kita belajar pakai Anki.
+* **03:19** 👨‍🔬 Me : Ya benar jadi ini buat ngelihat seberapa jauh kita dan seberapa sering kita belajar pakai Anki.
 
 * **03:31** 👨‍💻 Participant: Trus yang Sync ini untuk apa?
 
-* **03:33** 👨‍🔬 You : Itu untuk backup kalau punya akun gitu.
+* **03:33** 👨‍🔬 Me : Itu untuk backup kalau punya akun gitu.
 
 (Participant confuse with Nav Button.)
 (Participant click Deck Button many times.)
@@ -125,25 +128,26 @@
 
 * **03:56** 👨‍💻 Participant: Oh.
 
-* **03:57** 👨‍🔬 You : Nah jadi kan kamu tadi klik deck.. Periodic Table. Nah di deck ini banyak kartu, bisa dilihat. Jadi ini cuma gambaran kasar umumnya. Disini ada pertanyaan. Dan juga ada Show Answer nya.
+* **03:57** 👨‍🔬 Me : Nah jadi kan kamu tadi klik deck.. Periodic Table. Nah di deck ini banyak kartu, bisa dilihat. Jadi ini cuma gambaran kasar umumnya. Disini ada pertanyaan. Dan juga ada Show Answer nya.
 
 ( Participant confuse with Progress Study Info.)
 
 * **04:27** 👨‍💻 Participant: Trus ini Again, Good, ini untuk apa?
 
-* **04:33** 👨‍🔬 You : Bingung ya?
+* **04:33** 👨‍🔬 Me : Bingung ya?
 
 * **04:34** 👨‍💻 Participant: Emm.. iya sih.
 
-* **04:38** 👨‍🔬 You : Jadi ini kayak seberapa paham kamu materi ini. Jadi kalo kamu klik Again, kartunya bakal di repeat lebih sering.
+* **04:38** 👨‍🔬 Me : Jadi ini kayak seberapa paham kamu materi ini. Jadi kalo kamu klik Again, kartunya bakal di repeat lebih sering.
 
-* **05:05** 👨‍🔬 You : Gimana pengalamannya?
+* **05:05** 👨‍🔬 Me : Gimana pengalamannya?
 
 * **05:07** 👨‍💻 Participant: Emm.. sampai sejauh ini udah paham sih kegunaannya seperti apa. Terus kayak...fiturnya udah jelas sih. Cuma di halaman Deck ini ada Due sama Now. Nah itu buat apa gitu.
 
-* **05:53** 👨‍🔬 You : Ah terimakasih untuk kesempatan kali ini. Terimakasih.
+* **05:53** 👨‍🔬 Me : Ah terimakasih untuk kesempatan kali ini. Terimakasih.
 
 * **05:55** 👨‍💻 Participant: Ya sama-sama.
+```
 
 ### 4. Feedback and Incidence Analysis
 
@@ -151,21 +155,21 @@
 
 #### OBSERVATION 1
 
-![Prototype Screen 1](https://www.europassitalian.com/wp-content/uploads/2018/02/bravolol-app-screenshot-1-635x1128.png)
+![Deck Screen](img/deck-problem.png)
 
-* **Reference**: Provide line-number(s) or time-code(s) referred by feedback/incidence observed on the screen.
+* **Reference**: Participant 2 : 03:33, 05:07.
 
-* **Feedback**: Provide feedback (positive or negative) given by the participants, if any.
+* **Feedback**: Due and Now Tab Info doesn't clear its a button or not.
 
-* **Incidence**: Critical incidences (breakdowns or problems encountered by the participants) and/or mistakes committed by the participants, if any.
+* **Incidence**: Participant 2: Clicking the Due and Now Tab Info. Also he was clicking Decks Button while he was currently on Decks Page.
 
-* **Reason**: Explain the reason for the breakdowns or the negative feedback observed on the screen.
+* **Reason**: Participant 2: User can't differentiate button or nav info.
 
-* **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 1`.
+* **Resolution**: Redesign the UI and color.
 
 #### OBSERVATION 2
 
-![Prototype Screen 2](https://www.studiainitalia.com/wp-content/uploads/2017/02/free-courses-Learn-Italian-Online.jpg)
+![Study Card Problem](img/study-card-problem.png)
 
 * **Reference**:
 * **Feedback**:
