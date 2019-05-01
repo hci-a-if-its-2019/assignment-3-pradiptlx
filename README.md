@@ -71,16 +71,61 @@
 
 #### a. Transcript with Participant 1
 
-```text
-1. **You**: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-1. **Participant**: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
-1. **You**: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-1. **Participant**: The Quick Brown Fox Jumps Over The Lazy Dog.
-```
+* **00:03** 👨‍🔬 Me: Halo sebelumnya terimakasih sudah kembali diwawancarain lagi. Kalo sekarng tuh model yang sudah aku buat prototypenya. Kalo dulu kan aplikasi realnya. Mungkin kamu bisa coba ada yang aneh atau komen aja.
+* **00:34** 👨‍💻 Participant: Ok.
+(Participant was clicking everywhere to check the feature.)
+* **00:40 👨‍💻 Participant: Infonya yang dibawah tidak ada cards dalam beberapa detik dan tidak realtime. Maksud dari ini untuk apa?
+* **00:47** 👨‍🔬 Me: Oh itu memang seperti itu karena baru prototype. Tapi info itu gunanya untuk kasi tau udah belajar berapa card selama sekian waktu.
+(Participant click Periodic Table Deck.)
+(Participant guess the button function.)
+(Confuse with minimal information on prototype.)
+* **01:00** 👨‍💻 Participant: Mana nih. Udah nih gabisa liatin soal?
+* **01:15** 👨‍🔬 Me: Belum karena ini baru gambaran kasarnya lah untuk aplikasi nanti.
+* **01:17** 👨‍💻 Participant: Oke oke siap.
+(Participant explore the button and click back button.)
+* **01:27** 👨‍💻 Participant: Due, Now, 4, 20?
+(Confuse with Due and Now nav page.)
+(Clicking the Sync button.)
+* **01:33** 👨‍💻 Participant: Oh Sync itu...?
+* **01:35** 👨‍🔬 Me: Ya gambarannya tuh kalo di Sync akan muncul seperti ini. Pop up. Progress-nya akan seperti ini.
+* **01:39** 👨‍💻 Participant: Oh, oke oke. Oke coba buat baru.
+(Clicking Add page button.)
+* **01:49** 👨‍💻 Participant: Get Shared.
+(Clicking Get Shared button.)
+(The browser redirect the link to Anki website.)
+* **01:51** 👨‍💻 Participant: Oh ini ngambil?
+* **01:54** 👨‍🔬 Me: Ya ini dapetin decknya dengan redirect ke website Anki.
+(Back to app. Clicking Create Deck button.)
+* **01:59** 👨‍💻 Participant: Coba saya buat sendiri.
+(Click Create Deck button and typing.)
+* **02:00** 👨‍💻 Participant: Oh belum bisa.
+(Clicking help button.)
+* **02:08** 👨‍💻 Participant: Ok.
+* **02:09** 👨‍🔬 Me: Ikuti hotspotnya.
+* **02:11** 👨‍💻 Participant: Ngeliatnya darimana? Oh dari situ. Sip. Browse juga.
+(Back to Deck Page and click Browse Page button.)
+* **02:19** 👨‍🔬 Me: Menurutmu ini untuk apa?
+* **02:22** 👨‍💻 Participant: Emm... browse banyaknya, semua deck, buat liatin semua deck. Ok mantap.
+(Back to Deck Page and click Stat Page button.)
+* **02:54** 👨‍💻 Participant: Kenapa forecast?
+* **02:55** 👨‍🔬 Me: Itu untuk memprediksi progress belajarmu gimana.
+* **03:03** 👨‍💻 Participant: Siap siap. Udah itu aja ya?
+* **03:09** 👨‍🔬 Me: Mungkin ada saran atau apa gitu? Seperti kelebihan atau kekurangan dari aplikasi yang sebelumnya.
+* **03:22** 👨‍💻 Participant: Mungkin kolom ini terlalu gede. Sebenarnya gausah gede-gede, kecilin aja.
+(Show the nav info layout.)
+(Show the Study Card page.)
+* **03:40** 👨‍💻 Participant: Ya terus info cardnya belum keliatan jadi gatau mau gimana.
+(Show the progress info on study card page.)
+* **03:43** 👨‍💻 Participant: Terus ini merah, hijau, birunya belum jelas.
+* **03:54** 👨‍🔬 Me: Oh jadi itu fungsinya buat liat sisa kartu yang harus dipelajari ulang atau sudah paham.
+* **04:10** 👨‍💻 Participant: Oh ngulang ya kalo gagal?
+(Show the Answer page.)
+* **04:13** 👨‍🔬 Me: Terus ini buat seberapa paham kamu tentang materinya. Kalo klik ini akan diulang lagi pertanyaannya.
+* **04:22** 👨‍💻 Participant: Oh berarti kalo klik easy ga akan keluar lagi seharusnya?
+* **05:01** 👨‍🔬 Me: Ok terimakasih ya.
 
 #### b. Transcript with Participant 2
 
-```text
 * **00:01** 👨‍🔬 Me: Halo, aku mau nanya nih, sebelumnya kamu tau flashcard itu apa ga?
 
 * **00:08** 👨‍💻 Participant: Enggak.
@@ -147,7 +192,6 @@
 * **05:53** 👨‍🔬 Me : Ah terimakasih untuk kesempatan kali ini. Terimakasih.
 
 * **05:55** 👨‍💻 Participant: Ya sama-sama.
-```
 
 ### 4. Feedback and Incidence Analysis
 
@@ -169,42 +213,52 @@
 
 #### OBSERVATION 2
 
-![Study Card Problem](img/study-card-problem.png)
+![Study Card Problem](img/study-card-problem.jpg)
 
-* **Reference**:
-* **Feedback**:
-* **Incidence**:
-* **Reason**:
-* **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 2`.
+* **Reference**: Participant 1: 01:43; Participant 2: 03:57
+* **Feedback**: Participant 1: The color doesn't give information about the function of this info progress bar. Must include the number.
+* **Incidence**: Participant 1: Clicking the progress info. Participant 2: Clicking and not know that is not a button.
+* **Reason**: The information doesn't clear what is the function of progress info without the number or tracking info.
+* **Resolution**: Give the number of current progress, not only the color.
 
 #### OBSERVATION 3
-![Prototype Screen 3](https://www.jbklutse.com/wp-content/uploads/2019/01/language-learning-apps.png)
 
- - **Reference**:  
- - **Feedback**: 
- - **Incidence**: 
- - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 3`.
+![Study Card Problem](img/study-card-problem2.jpg)
 
-... and so on ...
+* **Reference**: Participant 1: 03:40
+* **Feedback**: Participant 1: Info card not available.
+* **Incidence**: Can't suggest the function of info card.
+* **Reason**: Designer not include the info card on prototype.
+* **Resolution**: Redesign and include the essential info.
 
 ---
 
 ## Part B: Prototyping (again)
-> Next, you will need to modify your prototype 
+
+> Next, you will need to modify your prototype
 > based on the resolutions you have suggested in `Feedback and Incidence Analysis`'s observations.
 
 ### Sketch
+
 > Draw a sketch of your prototype that is refined based according to the aforementioned observations on a paper.
 > Afterwards, scan the sketch or make the photograph of it and attach it on this report's section.
 > Please make sure the any texts on the sketch are readable.
 
-![Sketch of Refined Prototype](https://cdn2.hubspot.net/hub/725165/file-3421843765-png/blog-files/uxpin--300x211.png)
+![Sketch 1](img/sketch-assignment3.jpg)
 
 ### Design Rationale
-> Please write a paragraph expressing what you have learned from the usability evaluation, 
+
+> Please write a paragraph expressing what you have learned from the usability evaluation,
 > and how it is reflected in your design.
 
+From the Usability Evaluation, I understand more about how good is my prototype based on what I created from sketch. From the opinion about my prototype, I redesign everything from the color and give more valuable information.
+
 ### High-Fidelity Interactive-Prototype
+
 > Create a high-fidelity interactive-prototype based on the `Sketch` you have drawn.
 > You can use any prototyping tools: InVision, Adobe XD, or even Microsoft PowerPoint.
+
+![new design](img/new-design.jpg)
+
+Link (Adobe XD) :
+[High Fidelity Protoyping](https://xd.adobe.com/view/8765375a-ba75-4ee2-495a-f5097cf498fd-f154/?fullscreen)
