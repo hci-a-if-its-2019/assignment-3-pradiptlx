@@ -1,10 +1,12 @@
 # Usability Evaluation and Prototyping (again)
+
 > Usability Evaluation in this assignment is to evaluate your high-fidelity interactive-prototype with two participants:
 > the participant from the previous Contextual Inquiry (CI) 
 > and an additional novice-participant with different demographics if possible.
 > Respectively, revise your prototype as an attempt to fix any problems found in this Usability Evaluation.
 
 ## Operating the Prototype
+
 > Record a video (screen-recording is preferred) while you operating your prototype.
 > Present the ideal case on how to interact with the prototype from the beginning to the end.
 > Upload the video on any video-sharing website (e.g., YouTube), then attach the video link on this report.
@@ -21,27 +23,39 @@
 > You can benefit from the videotape while writing your `Recording Transcript` later.
 
 ### 1. Brief Description of Participants
-> Describe your participants in bullets or sentences.
-> The description should contain their demographic (age, gender, occupation),
-> their skill level in using the system, and your reasons choosing them.
-> The description should NOT contain any personally identifiable information.
 
 #### a. Description of Participant 1
- - The Quick 
- - Brown Fox 
- - Jumps Over 
- - The Lazy Dog
+
+* The User is male, 20 years old, from Informatics ITS 2017
+* He has experiences using computer and always work with it
+* Know what flashcard is
+* But he doesn't familiar with flashcard application
+* He never use flashcard as study method
+* Not a person who takes a time to read documentation
 
 #### b. Description of Participant 2
+
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 
 ### 2. Evaluation Script
+
 > Write the questions you ask and the instructions you use to direct the participants on what to do.
 > If it is the same as previous assignments, please mention this, yet go ahead and INCLUDE it again,
 > so we have everything in one place.
 > Note that the evaluation script must include exactly what you plan to say to the participants.
 
+#### Instruction
+
+1. Find out what is flashcard and Anki
+2. Find out documentation of Anki
+3. Open Anki and figure it out
+4. Try to explore Anki
+5. Try to create deck and card
+6. Try to use it
+7. Find out what user feel about Anki for using it first time
+
 ### 3. Transcript
+
 > Provide a summary of what the participant did and said, and what you did and said.
 > If at some points you have to help the participants, because they cannot figure out what to do,
 > that scene must be included in the transcript.
@@ -51,21 +65,28 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 > Remember to supplement the transcript with time-codes or line-numbers.
 
 #### a. Transcript with Participant 1
+
  1. **You**: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
  1. **Participant**: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
  1. **You**: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
  1. **Participant**: The Quick Brown Fox Jumps Over The Lazy Dog.
 
 #### b. Transcript with Participant 2
- - **00:01** 👨‍🔬 You: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- - **00:10** 👨‍💻 Participant: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- - **00:17** 👨‍🔬 You: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- - **00:25** 👨‍💻 Participant: The Quick Brown Fox Jumps Over The Lazy Dog.
+
+ * **00:01** 👨‍🔬 You: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+
+ * **00:10** 👨‍💻 Participant: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+
+ * **00:17** 👨‍🔬 You: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+ 
+ * **00:25** 👨‍💻 Participant: The Quick Brown Fox Jumps Over The Lazy Dog.
 
 ### 4. Feedback and Incidence Analysis
+
 > Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
 
 #### OBSERVATION 1
+
 ![Prototype Screen 1](https://www.europassitalian.com/wp-content/uploads/2018/02/bravolol-app-screenshot-1-635x1128.png)
 
  - **Reference**: Provide line-number(s) or time-code(s) referred by feedback/incidence observed on the screen.
