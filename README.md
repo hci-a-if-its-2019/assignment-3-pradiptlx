@@ -8,14 +8,14 @@
 ## Content
 
 * [Operating the Prototype](#Operating-the-Prototype)
-* [Part A: Usability Evaluation](#Part-A:-Usability-Evaluation)
+* [Part A: Usability Evaluation](#Part-A-Usability-Evaluation)
   * [1. Brief Description of Participants](#1-Brief-Description-of-Participants)
     * [2. Evaluation Script](#2-Evaluation-Script)
     * [3. Transcript](#3-Transcript)
       * [a. Transcript with Participant 1](#a-Transcript-with-Participant-1)
       * [b. Transcript with Participant 2](#b-Transcript-with-Participant-2)
     * [4. Feedback and Incidence Analysis](#4-Feedback-and-Incidence-Analysis)
-* [Part B: Prototyping (again)](#Part-B:-Prototyping-(again))
+* [Part B: Prototyping (again)](#Part-B-Prototyping-(again))
   * [Sketch](#Sketch)
   * [Design Rationale](#Design-Rationale)
   * [High-Fidelity Interactive-Prototype](#High-Fidelity-Interactive-Prototype)
